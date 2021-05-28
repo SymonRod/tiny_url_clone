@@ -218,6 +218,7 @@
 'The Core': 'The Core',
 'The output of the file is a dictionary that was rendered by the view %s': 'L\'output del file è un "dictionary" che è stato visualizzato dalla vista %s',
 'The Views': 'The Views',
+'There is no copyright but this is the current year ': 'There is no copyright but this is the current year ',
 'This App': 'This App',
 'This code was emailed to you and is required for login.': 'This code was emailed to you and is required for login.',
 'This email already has an account': 'This email already has an account',

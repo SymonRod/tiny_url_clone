@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+.footer {
+    background-color: rgb(0, 183, 255);
+}
+
+.form {
+    color: white;
+}
+
+.dropdown {
+    background-color: #343a40;
+    color: white;
+}
+
+#web2py_user_form {
+    background-color: #343a40;
+}
